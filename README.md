@@ -19,14 +19,4 @@
 &emsp;&emsp;&emsp;& IoT<br/>
 <br/>
 ☁️&nbsp;☁️&nbsp;☁️&nbsp;☁️&nbsp;☁️&nbsp;&nbsp;☁️&nbsp;☁️&nbsp;☁️&nbsp;☁️&nbsp;☁️&nbsp;☁️&nbsp;☁️&nbsp;☁️ <br/>
-&nbsp;🌜&nbsp;&nbsp;☁️&nbsp;☁️&nbsp;☁️&nbsp;☁️&nbsp;&nbsp;☁️&nbsp;☁️&nbsp;☁️☁️&nbsp;☁️☁️&nbsp;☁️ <br/>
-☁️&nbsp;☁️&nbsp;☁️&nbsp;☁️&nbsp;☁️&nbsp;&nbsp;☁️&nbsp;☁️&nbsp;☁️&nbsp;☁️&nbsp;☁️&nbsp;☁️&nbsp;☁️&nbsp;☁️ <br/>
-☁️&nbsp;☁️&nbsp;☁️&nbsp;☁️&nbsp;☁️&nbsp;&nbsp;☁️&nbsp;☁️&nbsp;☁️&nbsp;☁️&nbsp;☁️&nbsp;☁️&nbsp;☁️&nbsp;☁️ <br/>
-<br/>
-<br/>
-🌳&nbsp;🌳🌳&nbsp;🌳&nbsp;🌳🌳&nbsp;🌳🌳🌳🌳&ensp;&nbsp;🌳🌳🌳🌳🌳🌳🌳🌳🌳<br/>
-🌳&ensp;🌳&nbsp;🌳🌳&nbsp;&ensp;🦉&ensp;🐒&ensp;&nbsp;🌳&nbsp;🌳&nbsp;🌳🌳🌳🌳🌳🌳<br/>
-&nbsp;🌳&nbsp;🌳&nbsp;&nbsp;🌳&ensp;&ensp;&nbsp;💻&ensp;&ensp;&ensp;&ensp;🌳🌳🌳&nbsp;🌳&ensp;&nbsp;🌳🌳<br/>
-🌳🌳&ensp;🌳&nbsp;🐍&ensp;&ensp;&ensp;&ensp;🦔&nbsp;🌳&ensp;🌳🌳&nbsp;🌳&ensp;🌳🌳<br/>
-🌳🌳&ensp;🌳&nbsp;🌳🌳🦍&ensp;&nbsp;🦖&ensp;🌳&ensp;🌳🌳🌳🌳🌳&nbsp;🌳🌳&nbsp;🌳🌳<br/>
-🌳🌳&ensp;🌳🌳&nbsp;🌳🌳&ensp;🌳🌳&nbsp;🌳🌳🌳&nbsp;🌳&ensp;🌳🌳🌳🌳🌳🌳<br/>
+
