@@ -4,9 +4,10 @@
  &emsp;&emsp;&emsp;I am a computer science major at ETSU<br/>
  <h3>My favorite languages include:</h3>
 &emsp;&emsp;&emsp;c#,<br/>
+&emsp;&emsp;&emsp;C,<br/>
 &emsp;&emsp;&emsp;python,<br/>
 &emsp;&emsp;&emsp;xamarin,<br/>
-&emsp;&emsp;&emsp;& a touch of C and arm<br/>
+&emsp;&emsp;&emsp;& a touch of arm<br/>
 		<br/>								
 <h3>I am interested in:</h3>
 &emsp;&emsp;&emsp;security,<br/>
